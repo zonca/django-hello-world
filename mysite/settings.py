@@ -20,12 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-_v)m5e*73@!6z4au-!$g-+so+!e4h3z1j(@**l+$n^h#x28z1$'
+SECRET_KEY = 1/0
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["webhost.cis230085.projects.jetstream-cloud.org"]
+ALLOWED_HOSTS = ["webhost.xxx0000000.projects.jetstream-cloud.org"]
 
 
 # Application definition
